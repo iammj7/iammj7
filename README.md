@@ -17,7 +17,7 @@
 
 
 
-<a href="https://twitter.com/iammj777" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iammj777" height="30" width="40" /></a>
+<a href="https://twitter.com/mjceh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iammj777" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/iammj7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@godiscoolmj" height="30" width="40" /></a>
 <a href="https://discord.gg/HNcvHwFnMC" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="MJ_7#2736" height="30" width="40" /></a>
 <!-- <a href="https://www.leetcode.com/mj_8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mj_8" height="30" width="40" /></a>
